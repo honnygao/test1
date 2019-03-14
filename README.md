@@ -9,3 +9,5 @@
 	> git push origin --delete dev
 5. 合并分支
 	> git merge dev
+6. 本地创建并与远程分支关联
+	> git checkout -b dev origin/dev
